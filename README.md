@@ -14,7 +14,7 @@
 
 ## NFT assets on AQUA Metaverse Game - Unity version
 
-# NFT assets on AQUA Metaverse Game - Mobile version
+## NFT assets on AQUA Metaverse Game - Mobile version
 
-# NFT assets on AQUA Metaverse NFT market - Web version
+## NFT assets on AQUA Metaverse NFT market - Web version
 
