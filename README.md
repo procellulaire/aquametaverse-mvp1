@@ -2,7 +2,13 @@
 
 # CELO Ecosystem integration MVP demo using Tatum Backend 
 
-## Wallet 
+## CELO Web Wallet and Mobile Wallet
+
+## Send CELO
+
+## Send cUSD
+
+## Send ERC20, ERC721, or ERC1155 token standard to Celo
 
 ## Blockchain Browser
 
