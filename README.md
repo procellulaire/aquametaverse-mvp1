@@ -1,6 +1,5 @@
-# AQUA Metaverse REACT APP MVP1
-
-# CELO Ecosystem integration MVP demo using Tatum Backend 
+# AQUA Metaverse - Team Nautilus
+# Project REACT APP MVP1 : aquametaverse.org CELO Ecosystem integration. MVP demo series, use of Tatum Backend and CELO Dev tools to expand the Metaverse
 
 ## CELO Web Wallet and Mobile Wallet
 
@@ -23,4 +22,8 @@
 ## NFT assets on AQUA Metaverse Game - Mobile version
 
 ## NFT assets on AQUA Metaverse NFT market - Web version
+
+## CELO FlashLoan App for Virtual game poundshop 
+
+## NFT Game assets / Blockchain game interfacing POC 
 
